@@ -1,0 +1,1026 @@
+[14:27:13] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.0
+[14:27:13] [ForkJoinPool-1-worker-7/WARN]: Mod progressivearchery uses the version 1.1.3.a-1.20.1+trinkets which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:27:13] [ForkJoinPool-1-worker-6/WARN]: Mod xercamusic uses the version fabric-1.20.1-1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:27:13] [ForkJoinPool-1-worker-3/WARN]: Mod xercapaint uses the version fabric-1.20.1-1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:27:13] [main/INFO]: Loading 176 mods:
+	- additionalbanners 14.0.4
+	- additionallanterns 1.0.4-a
+	- another_furniture 1.20.1-3.0.1
+	- appleskin 2.5.1+mc1.20
+	- architectury 9.1.12
+	- backslot 1.2.15
+	   \-- amecsapi 1.5.0+mc1.20-pre1
+	- backslotaddon 1.1.1
+	- bakery 1.1.4
+	- bcc 4.0.1
+	- beautify 1.1.0+1.20
+	- bettercombat 1.8.3+1.20.1
+	- betterdays 1.20.1-3.1.0.2-FABRIC
+	- bitsandchisels 2.7.3
+	- bodyhealthsystem 0.3.6
+	- bookshelf 20.1.6
+	- bottleyourxp 3.3
+	- cloth-config 11.1.106
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.22
+	- couplings 1.9.5+1.20
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- crafttweaker 14.0.27
+	   |-- org_javassist_javassist 3.29.0-GA
+	   \-- org_reflections_reflections 0.10.2
+	- craterlib 1.0.2
+	- croptopia 2.3.2
+	   |-- com_typesafe_config 1.4.1
+	   |-- io_leangen_geantyref_geantyref 1.3.11
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- cycletitlescreensplash 1.1
+	- doapi 1.2.8
+	   |-- blue_endless_jankson 1.2.1
+	   \-- terraform-wood-api-v1 7.0.1
+	- dummmmmmy 1.20-1.8.13
+	- dynmap 3.7-beta-4
+	- emotecraft 2.2.7-b.build.50
+	   |-- bendy-lib 4.0.0
+	   \-- player-animator 1.0.2-rc1+1.20
+	- enchantingtweaks 1.2.1
+	   |-- fabric-api-base 0.4.31+f4b7e424c0
+	   \-- fabric-resource-loader-v0 0.11.9+132c48c177
+	- exlinefurniture 2.6.3
+	- fabric-api 0.91.0+1.20.1
+	   |-- fabric-api-lookup-api-v1 1.6.35+4d8536c977
+	   |-- fabric-biome-api-v1 13.0.12+215bbe9677
+	   |-- fabric-block-api-v1 1.0.10+92a0d36777
+	   |-- fabric-block-view-api-v2 1.0.0+92a0d36777
+	   |-- fabric-blockrenderlayer-v1 1.1.40+b3afc78b77
+	   |-- fabric-client-tags-api-v1 1.1.1+97bb207577
+	   |-- fabric-command-api-v1 1.2.33+f71b366f77
+	   |-- fabric-command-api-v2 2.2.12+b3afc78b77
+	   |-- fabric-commands-v0 0.2.50+df3654b377
+	   |-- fabric-containers-v0 0.1.63+df3654b377
+	   |-- fabric-content-registries-v0 4.0.10+57aed33f77
+	   |-- fabric-convention-tags-v1 1.5.4+a1a980da77
+	   |-- fabric-crash-report-info-v1 0.2.18+aeb40ebe77
+	   |-- fabric-data-generation-api-v1 12.3.3+d7b148e077
+	   |-- fabric-dimensions-v1 2.1.53+8536527b77
+	   |-- fabric-entity-events-v1 1.5.22+b3afc78b77
+	   |-- fabric-events-interaction-v0 0.6.1+e91849a877
+	   |-- fabric-events-lifecycle-v0 0.2.62+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.39+ae9f657a77
+	   |-- fabric-item-api-v1 2.1.27+b3afc78b77
+	   |-- fabric-item-group-api-v1 4.0.11+d7b148e077
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	   |-- fabric-keybindings-v0 0.2.34+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.21+b3afc78b77
+	   |-- fabric-loot-api-v2 1.2.0+96dfa95977
+	   |-- fabric-loot-tables-v1 1.1.44+9e7660c677
+	   |-- fabric-message-api-v1 5.1.8+d7b148e077
+	   |-- fabric-mining-level-api-v1 2.1.49+b3afc78b77
+	   |-- fabric-model-loading-api-v1 1.0.2+709a987177
+	   |-- fabric-models-v0 0.4.1+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.10+eeb8eb3677
+	   |-- fabric-networking-v0 0.3.50+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.2+4ee0bc6077
+	   |-- fabric-particles-v1 1.1.1+201a23a077
+	   |-- fabric-recipe-api-v1 1.0.20+b3afc78b77
+	   |-- fabric-registry-sync-v0 2.3.2+4df89eb277
+	   |-- fabric-renderer-api-v1 3.2.0+39a511ba77
+	   |-- fabric-renderer-indigo 1.5.0+39a511ba77
+	   |-- fabric-renderer-registries-v1 3.2.45+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.36+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.27+b3afc78b77
+	   |-- fabric-rendering-v0 1.1.48+df3654b377
+	   |-- fabric-rendering-v1 3.0.7+b3afc78b77
+	   |-- fabric-resource-conditions-api-v1 2.3.7+29de845d77
+	   |-- fabric-screen-api-v1 2.0.7+b3afc78b77
+	   |-- fabric-screen-handler-api-v1 1.3.29+b3afc78b77
+	   |-- fabric-sound-api-v1 1.0.12+b3afc78b77
+	   |-- fabric-transfer-api-v1 3.3.3+c81d263177
+	   \-- fabric-transitive-access-wideners-v1 4.3.0+6c31357e77
+	- fabricloader 0.15.0
+	   \-- mixinextras 0.3.0
+	- fusion 1.1.0+c
+	- geckolib 4.2.4
+	   \-- com_eliotlash_mclib_mclib 20
+	- globalnarrationtoggle 1.1
+	- grassoverhaul 23.6.9
+	- grindstonesharpertools 3.4
+	- horsebuff 2.1.2
+	- indium 1.0.27+mc1.20.1
+	- inertiaanticheat 0.0.6.1
+	   |-- com_moandjiezana_toml_toml4j 0.7.2
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- ingotcraft 1.20.1-2.3.4-fabric
+	- iris 1.6.11
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- java 17
+	- leahs-immersive-thunder 1.20.1+1.2.2
+	- lithium 0.11.2
+	- localizedchat 5.1.2
+	- magistuarmory 8.11
+	- magistuarmoryaddon 1.3
+	- map-in-slot 3.0.0
+	- mcwbridges 2.1.0
+	- mcwlights 1.0.6
+	- mcwpaths 1.0.3
+	- mcwroofs 2.2.4
+	- mcwtrpdoors 1.1.2
+	- mcwwindows 2.2.0
+	- measurements 2.0.0
+	- memoryleakfix 1.1.2
+	- midnightlib 1.4.1
+	- minecraft 1.20.1
+	- modmenu 7.2.2
+	- modpack-update-checker 0.11.2
+	- moonlight 1.20-2.8.68
+	- morebannerfeatures 1.2.0
+	- mr_banner_flags 2.1
+	- mr_clocks_andchimes 1.1.3
+	- naturalist 4.0.3
+	- niftycarts 3.0.0+1.20.1
+	- progressivearchery 1.1.3.a-1.20.1+trinkets
+	- psychedelicraft 1.6.6+1.20
+	   |-- fabwork 1.2.0
+	   \-- kirin 1.15.1
+	- rain-grow 1.0-SNAPSHOT
+	- realisticbees 3.5
+	- rechiseled 1.1.5+b
+	- simple-rpc 3.2.4
+	   \-- me_hypherionmc_simplerpc_simple-rpc-common 5.0.2
+	- simplyswords 1.51.5-1.20.1
+	   \-- spruceui 5.0.0+1.20
+	- skinlayers3d 1.6.1
+	- slavicarmory 1.1
+	- smallships 2.0.0-a2.3.3
+	   \-- forgeconfigapiport 8.0.0
+	- sodium 0.5.3
+	- sound_physics_remastered 1.20.1-1.1.2
+	- spectrelib 0.13.14+1.20.1
+	- stacc 1.7.0
+	- statement 4.2.8+1.14.4-1.20.1
+	   |-- kanos_config 0.4.1+1.14.4-1.19.4
+	   \-- statement_vanilla_compatibility 1.0.1+1.16.5-1.17
+	- supermartijn642configlib 1.1.8+a
+	- supermartijn642corelib 1.1.16
+	- tiltbreak 1.20.1-1.3.2FC
+	- translucent-glass 0.1.2
+	- trinkets 3.7.1
+	   |-- cardinal-components-base 5.2.0
+	   \-- cardinal-components-entity 5.2.0
+	- variantchests 1.3.5
+	- vinery 1.4.8
+	- visualizerbookshelf 2.0
+	- vmp 0.2.0+beta.7.102
+	- voicechat 1.20.1-2.4.28
+	- walllanterns 1.6.1+1.20.1
+	- worldedit 7.2.15+6463-5ca4dff
+	- xercamusic fabric-1.20.1-1.0.0
+	- xercapaint fabric-1.20.1-1.0.0
+[14:27:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/1bulg/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[14:27:14] [main/INFO]: Compatibility level set to JAVA_17
+[14:27:14] [main/WARN]: Reference map 'Bakery-fabric-refmap.json' for bakery.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:14] [main/WARN]: Reference map 'dummmmmmy-fabric-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[14:27:15] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/INFO]: Loaded configuration file for Sodium: 41 options available, 3 override(s) found
+[14:27:15] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/INFO]: Successfully started async appender with [SysOut, File]
+[14:27:15] [main/WARN]: Reference map 'xercamusic-refmap.json' for xercamusic.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/WARN]: Reference map 'xercapaint-refmap.json' for xercapaint.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:27:15] [main/WARN]: Force-enabling mixin 'block.hopper.worldedit_compat.WorldChunkMixin' as rule 'mixin.block.hopper.worldedit_compat' (added by mods [lithium-fabric]) enables it
+[14:27:15] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[14:27:15] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
+[14:27:15] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[14:27:15] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[14:27:16] [main/INFO]: Searching for graphics cards...
+[14:27:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.0).
+[14:27:16] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon(TM) Graphics, version=DriverVersion=31.0.21001.16014]
+[14:27:16] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3060, version=DriverVersion=31.0.15.4617]
+[14:27:16] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[14:27:16] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[14:27:18] [main/WARN]: @Final field field_6280:Ljava/util/Map; in vinery-common.mixins.json:LivingEntityMixin from mod vinery should be final
+[14:27:23] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 181 milliseconds
+[14:27:26] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:27:26] [Render thread/INFO]: Setting user: 1Bulgarian
+[14:27:26] [Render thread/INFO]: Readig Config...
+[14:27:28] [Render thread/ERROR]: No data fixer registered for bakery:wandering_baker
+[14:27:28] [Render thread/INFO]: Better Compatibility Checker starting
+[14:27:28] [Render thread/INFO]: Loading config file
+[14:27:28] [Render thread/INFO]: Config file loaded
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[14:27:28] [Render thread/INFO]: Loading Collective version 7.22.
+[14:27:30] [Render thread/INFO]: Reflections took 1253 ms to scan 239 urls, producing 10757 keys and 62735 values
+[14:27:30] [Render thread/WARN]: Method overwrite conflict for getChildren in niftycarts.client.mixins.json:ModelPartMixin from mod niftycarts, previously written by io.github.kosmx.bendylib.mixin.IModelPartMixin. Skipping method.
+[14:27:34] [Render thread/ERROR]: No data fixer registered for doapi:chair
+[14:27:34] [Render thread/ERROR]: No data fixer registered for vinery:mule
+[14:27:34] [Render thread/ERROR]: No data fixer registered for vinery:wandering_winemaker
+[14:27:34] [Render thread/ERROR]: No data fixer registered for vinery:chair
+[14:27:34] [Render thread/WARN]: Lithium detected. MmmMmmMmmMmm scarecrow mode has been disabled as lithium doesnt have a way to add goals to new entities
+[14:27:34] [Render thread/INFO]: [Dynmap] Mod Support API available
+[14:27:35] [Render thread/INFO]: Loaded Fabwork 1.2.0
+[14:27:35] [Render thread/INFO]: Horse Buff Initialized
+[14:27:35] [Render thread/INFO]: [InertiaAntiCheat] Initializing InertiaAntiCheat!
+[14:27:35] [Render thread/INFO]: Immersive Thunder loaded.
+[14:27:35] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[14:27:35] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[14:27:35] [Render thread/INFO]: Registering S2C receiver with id magistuarmory:packet_bc_or_ef_installed
+[14:27:35] [Render thread/INFO]: [STDOUT]: Hello from Epic Knights Addon init!
+[14:27:36] [Render thread/INFO]: [STDOUT]: found type, is TWO
+[14:27:36] [Render thread/INFO]: [STDOUT]: [Modpack Update Checker] Loaded configuration file.
+[14:27:36] [Render thread/INFO]: [STDOUT]: Fetching available hotfixes...
+[14:27:37] [Render thread/INFO]: [STDOUT]: Found 392 hotfixes in 299 ms
+[14:27:37] [Render thread/INFO]: Loaded config moonlight-client.json
+[14:27:38] [Render thread/INFO]: Initialized RainGrow
+[14:27:38] [Render thread/ERROR]: No data fixer registered for battlestandard
+[14:27:38] [Render thread/ERROR]: No data fixer registered for battlestandarddark
+[14:27:38] [Render thread/INFO]: [STDOUT]: C:\Users\1bulg\curseforge\minecraft\Instances\BalkanaRP\config
+[14:27:38] [Render thread/INFO]: [STDOUT]: Hello from Epic Knights Addon init!
+[14:27:38] [Render thread/INFO]: Reloading reverb parameters
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.ambient_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:item.bucket.fill_snail not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snake.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.sleep not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.jump not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.deer.ambient_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_canary not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.fly not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rhino.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snail.forward not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rhino.ambient_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.tortoise.egg_hatch not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.lion.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.spit not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.egg_break not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snake.hiss not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.duck.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.duck.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.angry not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.egg_hatch not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.lion.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.eat not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_robin not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.boar.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.hippo.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_cardinal not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rhino.scrape not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.tortoise.egg_break not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.catfish.flop not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.duck.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.lion.roar not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.breathe not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.giraffe.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snake.rattle not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.elephant.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.deer.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:item.bucket.empty_snail not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rubber_ducky.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.firefly.hide not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rubber_ducky.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.sniff not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_bluejay not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.hurt_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.rubber_ducky.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.egg_crack not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.duck.step not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.eat not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.boar.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snail.crush not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.vulture.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.firefly.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.hippo.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.elephant.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bear.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.firefly.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bass.flop not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.deer.hurt_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_finch not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.ambient_sparrow not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.tortoise.egg_crack not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.boar.death not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.snail.back not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.deer.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.dragonfly.loop not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.vulture.hurt not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.alligator.ambient_baby not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.vulture.ambient not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.bird.eat not found
+[14:27:39] [Render thread/WARN]: Sound event naturalist:entity.zebra.ambient not found
+[14:27:39] [Render thread/INFO]: Visual Chiseled Bookshelves Initialized
+[14:27:39] [Render thread/INFO]: [voicechat] Compatibility version 17
+[14:27:39] [Render thread/INFO]: [voicechat] Loading plugins
+[14:27:39] [Render thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[14:27:39] [Render thread/INFO]: [voicechat] Initializing plugins
+[14:27:39] [Render thread/INFO]: Initializing Simple Voice Chat integration
+[14:27:39] [Render thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[14:27:39] [Render thread/INFO]: [voicechat] Registering events for sound_physics_remastered
+[14:27:39] [Render thread/INFO]: Config file is out of date, updating.
+[14:27:40] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6b855ba1]
+[14:27:40] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
+[14:27:40] [Render thread/INFO]: XercaMusic: Registering tile entities
+[14:27:40] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[14:27:40] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:27:40] [Render thread/INFO]: Loaded Fabwork 1.2.0
+[14:27:40] [Render thread/ERROR]: Mod globalnarrationtoggle provides a broken implementation of ModMenuApi
+net.fabricmc.loader.api.EntrypointException: Exception while loading entries for entrypoint 'modmenu' provided by 'globalnarrationtoggle'
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:56) ~[fabric-loader-0.15.0.jar:?]
+	at com.terraformersmc.modmenu.ModMenu.lambda$onInitializeClient$1(ModMenu.java:74) ~[modmenu-7.2.2.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.terraformersmc.modmenu.ModMenu.onInitializeClient(ModMenu.java:70) ~[modmenu-7.2.2.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:384) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:53) ~[fabric-loader-0.15.0.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:458) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[fabric-loader-0.15.0-1.20.1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.0.jar:?]
+Caused by: net.fabricmc.loader.api.LanguageAdapterException: java.lang.ClassNotFoundException: com.natamus.globalnarrationtoggle.fabric.config.IntegrateModMenu
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:52) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:117) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.15.0.jar:?]
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: com.natamus.globalnarrationtoggle.fabric.config.IntegrateModMenu
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.0.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:117) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.15.0.jar:?]
+	... 10 more
+[14:27:40] [Render thread/WARN]: Using Cloth Config GUI
+[14:27:40] [Render thread/INFO]: Registering config screens for mod betterdays with 2 config(s)
+[14:27:40] [Render thread/INFO]: [voicechat] Using Cloth Config GUI
+[14:27:40] [Worker-Main-1/INFO]: Checking mod updates...
+[14:27:40] [Render thread/INFO]: Initialized block sets in 14ms
+[14:27:40] [Render thread/ERROR]: No data fixer registered for target_dummy
+[14:27:41] [Render thread/INFO]: Loaded config dummmmmmy-common.json
+[14:27:41] [Render thread/INFO]: Loaded config dummmmmmy-client.json
+[14:27:41] [Render thread/INFO]: Initialized color sets in 32ms
+[14:27:41] [Render thread/INFO]: Registering S2C receiver with id vinery:shader
+[14:27:41] [Render thread/INFO]: Visual Chiseled Bookshelves Client Initialized
+[14:27:41] [Render thread/INFO]: [voicechat] Loading Opus
+[14:27:41] [ForkJoinPool.commonPool-worker-9/WARN]: [Iris Update Check] Cached update file detected, using that!
+[14:27:42] [Render thread/INFO]: Loading config file from C:\Users\1bulg\curseforge\minecraft\Instances\BalkanaRP\config\simple-rpc\simple-rpc.toml
+[14:27:42] [Render thread/INFO]: Registered simple-rpc.toml successfully!
+[14:27:42] [Render thread/INFO]: Loading config file from C:\Users\1bulg\curseforge\minecraft\Instances\BalkanaRP\config\simple-rpc\server-entries.toml
+[14:27:42] [Render thread/INFO]: Registered server-entries.toml successfully!
+[14:27:42] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[14:27:42] [Render thread/WARN]: Attempting to apply workarounds for the NVIDIA Graphics Driver...
+[14:27:42] [Render thread/WARN]: If the game crashes immediately after this point, please make a bug report: https://github.com/CaffeineMC/sodium-fabric/issues
+[14:27:42] [Render thread/INFO]: ... Successfully applied workarounds for the NVIDIA Graphics Driver!
+[14:27:42] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[14:27:42] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+[14:27:42] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.17
+[14:27:42] [Render thread/INFO]: Debug functionality is disabled.
+[14:27:42] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[14:27:42] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[14:27:42] [Render thread/INFO]: Shaders are disabled
+[14:27:43] [Render thread/INFO]: Hardware information:
+[14:27:43] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 5600G with Radeon Graphics 
+[14:27:43] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3060/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 546.17)
+[14:27:43] [Render thread/INFO]: OS: Windows 10 (10.0)
+[14:27:43] [pool-9-thread-1/INFO]: Connected to discord as 1bulgarian
+[14:27:43] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (additionalbanners, additionallanterns, amecsapi, another_furniture, appleskin, backslot, backslotaddon, bakery, bcc, beautify, bettercombat, betterdays, bitsandchisels, bodyhealthsystem, bookshelf, cardinal-components-base, cardinal-components-entity, cloth-config, crafttweaker, craterlib, croptopia, doapi, dummmmmmy, dynmap, emotecraft, enchantingtweaks, exlinefurniture, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fabwork, forgeconfigapiport, geckolib, grassoverhaul, horsebuff, indium, ingotcraft, iris, kanos_config, leahs-immersive-thunder, lithium, localizedchat, magistuarmory, magistuarmoryaddon, mcwbridges, mcwlights, mcwpaths, mcwroofs, mcwtrpdoors, mcwwindows, measurements, midnightlib, modmenu, modpack-update-checker, moonlight, morebannerfeatures, mr_clocks_andchimes, naturalist, niftycarts, progressivearchery, psychedelicraft, rain-grow, realisticbees, rechiseled, simple-rpc, simplyswords, skinlayers3d, slavicarmory, smallships, sodium, sound_physics_remastered, spruceui, stacc, statement, statement_vanilla_compatibility, supermartijn642corelib, terraform-wood-api-v1, translucent-glass, trinkets, variantchests, vinery, vmp, voicechat, walllanterns, worldedit, xercamusic, xercapaint), file/BalkanaRP_3D.zip, file/BalkanaRP.zip, translucent-glass:translucent-glass, black_icons
+[14:27:44] [Worker-Main-5/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[14:27:44] [Render thread/INFO]: Welcome to Progressive Archery! May all your your aims be true -- in-game, and in life.
+[14:27:44] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[14:27:45] [Worker-Main-4/WARN]: Texture magistuarmoryaddon:item/silvered_dark_maximilian_chestplate with size 16x17 limits mip level from 4 to 0
+[14:27:45] [Worker-Main-4/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'collective@7.22', (-> 1.20.1-7.30-fabric+forge+neo)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'bookshelf@20.1.6', (-> 20.1.8)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'memoryleakfix@1.1.2', (-> v1.1.5)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'inertiaanticheat@0.0.6.1', (-> 0.0.6.2)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'moonlight@1.20-2.8.68', (-> fabric_1.20-2.8.82)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'skinlayers3d@1.6.1', (-> 1.6.2)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'sound_physics_remastered@1.20.1-1.1.2', (-> fabric-1.20.1-1.3.1)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'globalnarrationtoggle@1.1', (-> 1.20.1-1.2-fabric+forge+neo)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'cycletitlescreensplash@1.1', (-> 1.20.1-1.2-fabric+forge+neo)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'additionallanterns@1.0.4-a', (-> 1.1.1-fabric-mc1.20)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'craterlib@1.0.2', (-> 1.20-1.1.1)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'realisticbees@3.5', (-> 1.20.1-3.8-fabric+forge+neo)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'xercamusic@fabric-1.20.1-1.0.0', (-> 1.20.1-1.0.1)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'statement@4.2.8+1.14.4-1.20.1', (-> 4.2.9+1.14.4-1.20.4)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'voicechat@1.20.1-2.4.28', (-> fabric-1.20.1-2.4.32)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'cloth-config@11.1.106', (-> 11.1.118+fabric)
+[14:27:46] [Worker-Main-1/INFO]: Update available for 'variantchests@1.3.5', (-> 1.4)
+[14:27:47] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'bakery:blockstates/strawberry_crop.json' missing model for variant: 'bakery:strawberry_crop#age=5'
+[14:27:47] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'bakery:blockstates/cupcake_display.json' missing model for variant: 'bakery:cupcake_display#facing=west'
+[14:27:47] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'bakery:blockstates/cupcake_display.json' missing model for variant: 'bakery:cupcake_display#facing=east'
+[14:27:47] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'bakery:blockstates/cupcake_display.json' missing model for variant: 'bakery:cupcake_display#facing=south'
+[14:27:47] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'bakery:blockstates/cupcake_display.json' missing model for variant: 'bakery:cupcake_display#facing=north'
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/purple' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/purple.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/white' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/white.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/light_gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/light_gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/light_blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/light_blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/cyan' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/cyan.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/brown' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/brown.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/dark_oak/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/dark_oak/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/cherry/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/cherry/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/black' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/black.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/purple' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/purple.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/light_blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/light_blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/light_blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/light_blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/yellow' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/yellow.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/white' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/white.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/brown' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/brown.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/yellow' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/yellow.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/mangrove/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/mangrove/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/magenta' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/magenta.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/orange' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/orange.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/purple' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/purple.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/pink' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/pink.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/black' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/black.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/cyan' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/cyan.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/brown' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/brown.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/light_gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/light_gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/magenta' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/magenta.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/green' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/green.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/crimson/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/crimson/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/black' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/black.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/yellow' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/yellow.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/acacia/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/acacia/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/cyan' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/cyan.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/orange' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/orange.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/birch/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/birch/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/black' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/black.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/green' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/green.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/pink' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/pink.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/green' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/green.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/lime' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/lime.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/light_gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/light_gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/green' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/green.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/bamboo/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/bamboo/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/green' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/green.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/red' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/red.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/lime' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/lime.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/pink' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/pink.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/jungle/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/jungle/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/light_blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/light_blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/black' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/black.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/orange' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/orange.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/red' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/red.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/pink' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/pink.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/cyan' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/cyan.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/yellow' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/yellow.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/magenta' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/magenta.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/brown' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/brown.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/purple' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/purple.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/lime' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/lime.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/magenta' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/magenta.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/white' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/white.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/red' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/red.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/pink' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/pink.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:bab/clocks/hands/oak/pendulum' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/bab/clocks/hands/oak/pendulum.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/white' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/white.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/brown' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/brown.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/warped/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/warped/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/light_blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/light_blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/1/white' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/1/white.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/red' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/red.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/orange' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/orange.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/lime' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/lime.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/light_gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/light_gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/red' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/red.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/lime' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/lime.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/5/light_gray' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/5/light_gray.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/purple' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/purple.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/3/blue' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/3/blue.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/orange' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/orange.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/magenta' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/magenta.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:bab/clocks/grand/oak/full' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/bab/clocks/grand/oak/full.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/couch/spruce/0' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/couch/spruce/0.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/4/yellow' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/4/yellow.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:tac/bench/carpet/couch/2/cyan' referenced from: minecraft:jungle_trapdoor#inventory: java.io.FileNotFoundException: minecraft:models/tac/bench/carpet/couch/2/cyan.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'bakery:cake_display#inventory' referenced from: bakery:cake_display#inventory: java.io.FileNotFoundException: bakery:models/item/cake_display.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'xercamusic:harp_mc#inventory' referenced from: xercamusic:harp_mc#inventory: java.io.FileNotFoundException: xercamusic:models/item/harp_mc.json
+[14:27:48] [Worker-Main-9/WARN]: Unable to load model: 'bakery:cupcake_display#inventory' referenced from: bakery:cupcake_display#inventory: java.io.FileNotFoundException: bakery:models/item/cupcake_display.json
+[14:27:49] [Worker-Main-9/WARN]: Method overwrite conflict for getSprite in bitsandchisels.mixins.json:BakedQuadAccessor from mod bitsandchisels, previously written by me.jellysquid.mods.sodium.mixin.core.model.quad.BakedQuadMixin. Skipping method.
+[14:27:49] [Worker-Main-9/WARN]: Unable to resolve texture due to reference chain bottom->bottom in minecraft:item/oak_door
+[14:27:50] [Worker-Main-9/WARN]: Unable to resolve texture due to reference chain bottom->bottom in minecraft:item/mangrove_door
+[14:27:50] [Worker-Main-9/WARN]: Unable to resolve texture due to reference chain bottom->bottom in minecraft:item/warped_door
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:husk_arm#facing=north:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:zombie_arm#facing=north:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/zombie_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:zombie_arm#inventory:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/zombie_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:husk_arm#facing=east:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:zombie_arm#facing=east:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/zombie_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:husk_arm#inventory:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:husk_arm#facing=west:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:zombie_arm#facing=south:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/zombie_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:zombie_arm#facing=west:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/zombie_arm
+[14:27:50] [Worker-Main-9/WARN]: Missing textures in model exlinefurniture:husk_arm#facing=south:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14:27:51] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:27:51] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:27:51] [Render thread/WARN]: Missing sound for event: naturalist:rubber_ducky_death
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.alcohol
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.cannabis
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.brown_shrooms
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.red_shrooms
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.tobacco
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.coccaine
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.caffeine
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.sugar
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.bath_salts
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.sleep_deprivation
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.lsd
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.atropine
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.kava
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.warmth
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.peyote
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.zero
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.power
+[14:27:51] [Render thread/WARN]: Missing sound for event: psychedelicraft:drug.harmonium
+[14:27:51] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[14:27:51] [Render thread/INFO]: Initializing Sound Physics
+[14:27:51] [Render thread/INFO]: EFX Extension recognized
+[14:27:51] [Render thread/INFO]: Max auxiliary sends: 4
+[14:27:51] [Render thread/INFO]: Aux slot 1 created
+[14:27:51] [Render thread/INFO]: Aux slot 2 created
+[14:27:51] [Render thread/INFO]: Aux slot 3 created
+[14:27:51] [Render thread/INFO]: Aux slot 4 created
+[14:27:51] [Render thread/INFO]: EFX ready
+[14:27:51] [Render thread/INFO]: Sound engine started
+[14:27:51] [Render thread/INFO]: Created: 8192x4096x0 minecraft:textures/atlas/blocks.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:27:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:27:52] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:27:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:27:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:27:52] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:27:52] [Render thread/INFO]: Created: 256x256x0 moonlight:textures/atlas/map_markers.png-atlas
+[14:27:52] [Render thread/INFO]: Welcome to Progressive Archery! May all your your aims be true -- in-game, and in life.
+[14:28:34] [Render thread/INFO]: Welcome to Progressive Archery! May all your your aims be true -- in-game, and in life.
+[14:30:30] [Render thread/INFO]: Welcome to Progressive Archery! May all your your aims be true -- in-game, and in life.
+[14:30:31] [Render thread/ERROR]: ##################################
+[14:30:31] [Render thread/ERROR]: Failed to notify event listener!
+[14:30:31] [Render thread/ERROR]: Event Type: com.hypherionmc.craterlib.api.event.client.ScreenEvent$Opening
+[14:30:31] [Render thread/ERROR]: Listener Parent Class Name: me.hypherionmc.simplerpc.SimpleRPCClient
+[14:30:31] [Render thread/ERROR]: Listener Method Name In Parent Class: screenOpenEvent
+[14:30:31] [Render thread/ERROR]: ##################################
+[14:30:31] [Render thread/INFO]: [STDERR]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.lambda$registerListenerMethods$1(CraterEventBus.java:45)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus$ListenerContainer.notifyListener(CraterEventBus.java:128)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.postEvent(CraterEventBus.java:26)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.handler$zmb000$craterlib$injectScreenOpeningEvent(class_310.java:7530)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1507(class_310.java:1088)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_442.method_19860(class_442.java:167)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4185.method_25306(class_4185.java:94)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4264.method_25348(class_4264.java:56)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_339.method_25402(class_339.java:189)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4069.method_25402(class_4069.java:38)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_442.method_25402(class_442.java:299)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_1611(class_312.java:98)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_437.method_25412(class_437.java:409)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_1601(class_312.java:98)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_22686(class_312.java:169)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.execute(class_1255.java:102)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_22684(class_312.java:169)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.system.JNI.invokeV(Native Method)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:237)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1523(class_310.java:1244)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1514(class_310.java:802)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:250)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[14:30:31] [Render thread/INFO]: [STDERR]: Caused by: java.lang.reflect.InvocationTargetException
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.lambda$registerListenerMethods$1(CraterEventBus.java:43)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	... 26 more
+[14:30:31] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NullPointerException: Cannot invoke "java.util.List.forEach(java.util.function.Consumer)" because "buttons" is null
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.util.APIUtils.parseButtons(APIUtils.java:53)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.configuration.presence.ServerListSection.buildPresence(ServerListSection.java:64)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.updateRPC(RichPresenceEvents.java:99)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.updateRPC(RichPresenceEvents.java:64)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.serverListRPC(RichPresenceEvents.java:49)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpc.SimpleRPCClient.screenOpenEvent(SimpleRPCClient.java:56)
+[14:30:31] [Render thread/INFO]: [STDERR]: 	... 31 more
+[14:30:34] [Render thread/INFO]: Readig Config...
+[14:30:34] [Render thread/INFO]: Connecting to mc.balkanarp.eu, 25565
+[14:30:39] [Netty Play IO Thread #0/INFO]: Decoded Weapon Attribute registry in 28 string chunks
+[14:30:39] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[14:30:39] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[14:30:39] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[14:30:39] [Render thread/INFO]: Started 6 worker threads
+[14:30:39] [Render thread/INFO]: [voicechat] Sending secret request to the server
+[14:30:40] [Render thread/INFO]: Initializing sound physics for voice chat audio
+[14:30:40] [Render thread/INFO]: Initializing Sound Physics
+[14:30:40] [Render thread/INFO]: EFX Extension recognized
+[14:30:40] [Render thread/INFO]: Max auxiliary sends: 2
+[14:30:40] [Render thread/INFO]: Aux slot 1 created
+[14:30:40] [Render thread/INFO]: Aux slot 2 created
+[14:30:40] [Render thread/INFO]: Aux slot 3 created
+[14:30:40] [Render thread/INFO]: Aux slot 4 created
+[14:30:40] [Render thread/INFO]: EFX ready
+[14:30:40] [Render thread/ERROR]: Received unknown remote registry entries from server
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:star) is missing from local registry (minecraft:particle_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:steam) is missing from local registry (minecraft:particle_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.stove.crackle) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.cooking_pot.boil_soup) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.cooking_pot.boil) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.cutting_board.knife) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.cabinet.open) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.cabinet.close) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.skillet.sizzle) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.skillet.add_food) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:item.skillet.attack.strong) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:item.skillet.attack.weak) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:block.tomato_bush.pick_tomatoes) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:entity.rotten_tomato.throw) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:entity.rotten_tomato.hit) is missing from local registry (minecraft:sound_event)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stove) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooking_pot) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:skillet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:basket) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cutting_board) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sandy_shrub) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_cabbages) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_onions) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_tomatoes) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_carrots) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_potatoes) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_beetroots) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_rice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:brown_mushroom_colony) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:red_mushroom_colony) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:carrot_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:potato_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:beetroot_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomato_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:onion_crate) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_bale) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_bag) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:straw_bale) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rope) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:safety_net) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:oak_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:birch_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:spruce_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:jungle_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:acacia_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:dark_oak_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mangrove_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:crimson_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:warped_cabinet) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_rug) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tatami) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:full_tatami_mat) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:half_tatami_mat) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:white_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:orange_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:magenta_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_blue_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:yellow_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:lime_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pink_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:gray_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_gray_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cyan_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:purple_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:blue_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:brown_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:green_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:red_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:black_canvas_sign) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:organic_compost) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rich_soil) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rich_soil_farmland) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:apple_pie) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sweet_berry_cheesecake) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chocolate_pie) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:roast_chicken_block) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stuffed_pumpkin_block) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:honey_glazed_ham_block) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:shepherds_pie_block) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_roll_medley_block) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:flint_knife) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:iron_knife) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:golden_knife) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:diamond_knife) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:netherite_knife) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:straw) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tree_bark) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage_seeds) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomato) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomato_seeds) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:onion) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_panicle) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rotten_tomato) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:fried_egg) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:milk_bottle) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:hot_cocoa) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:apple_cider) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:melon_juice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomato_sauce) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wheat_dough) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:raw_pasta) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pumpkin_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage_leaf) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:minced_beef) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:beef_patty) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chicken_cuts) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_chicken_cuts) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:bacon) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_bacon) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cod_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_cod_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:salmon_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_salmon_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mutton_chops) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_mutton_chops) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:ham) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:smoked_ham) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pie_crust) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cake_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:apple_pie_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sweet_berry_cheesecake_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chocolate_pie_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sweet_berry_cookie) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:honey_cookie) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:melon_popsicle) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:glow_berry_custard) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:fruit_salad) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mixed_salad) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:nether_salad) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:barbecue_stick) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:egg_sandwich) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chicken_sandwich) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:hamburger) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:bacon_sandwich) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mutton_wrap) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:dumplings) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stuffed_potato) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage_rolls) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:salmon_roll) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cod_roll) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:kelp_roll) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:kelp_roll_slice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooked_rice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:bone_broth) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:beef_stew) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chicken_soup) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:vegetable_soup) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:fish_stew) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:fried_rice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pumpkin_soup) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:baked_cod_stew) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:noodle_soup) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:bacon_and_eggs) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pasta_with_meatballs) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pasta_with_mutton_chop) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mushroom_rice) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:roasted_mutton_chops) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:vegetable_noodles) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:steak_and_potatoes) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:ratatouille) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:squid_ink_pasta) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:grilled_salmon) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:roast_chicken) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stuffed_pumpkin) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:honey_glazed_ham) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:shepherds_pie) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:dog_food) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:horse_feed) is missing from local registry (minecraft:item)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooking_pot) is missing from local registry (minecraft:menu)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:backstabbing) is missing from local registry (minecraft:enchantment)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stove) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooking_pot) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:basket) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cutting_board) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:skillet) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabinet) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_sign) is missing from local registry (minecraft:block_entity_type)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stove) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cooking_pot) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:basket) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cutting_board) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:skillet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:carrot_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:potato_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:beetroot_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbage_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomato_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:onion_crate) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_bale) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_bag) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:straw_bale) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rope) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:safety_net) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:oak_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:birch_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:spruce_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:jungle_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:acacia_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:dark_oak_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:mangrove_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:crimson_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:warped_cabinet) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_rug) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tatami) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:full_tatami_mat) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:half_tatami_mat) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:white_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:orange_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:magenta_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_blue_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:yellow_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:lime_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pink_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:gray_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_gray_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cyan_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:purple_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:blue_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:brown_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:green_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:red_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:black_canvas_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:white_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:orange_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:magenta_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_blue_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:yellow_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:lime_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:pink_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:gray_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:light_gray_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cyan_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:purple_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:blue_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:brown_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:green_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:red_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:black_canvas_wall_sign) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:brown_mushroom_colony) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:red_mushroom_colony) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:organic_compost) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rich_soil) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rich_soil_farmland) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sandy_shrub) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_cabbages) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_onions) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_tomatoes) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_carrots) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_potatoes) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_beetroots) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:wild_rice) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:cabbages) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:onions) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:budding_tomatoes) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:tomatoes) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_panicle) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:apple_pie) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:sweet_berry_cheesecake) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:chocolate_pie) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:roast_chicken_block) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:stuffed_pumpkin_block) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:honey_glazed_ham_block) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:shepherds_pie_block) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rice_roll_medley_block) is missing from local registry (minecraft:block)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:nourishment) is missing from local registry (minecraft:mob_effect)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:comfort) is missing from local registry (minecraft:mob_effect)
+[14:30:40] [Render thread/ERROR]: Registry entry (farmersdelight:rotten_tomato) is missing from local registry (minecraft:entity_type)
+[14:30:40] [Render thread/ERROR]: Registry remapping failed!
+net.fabricmc.fabric.impl.registry.sync.RemapException: Received 275 registry entries that are unknown to this client.
+This is usually caused by a mismatched mod set between the client and server. See the client logs for more details.
+The following registry entry namespaces may be related:
+
+farmersdelight
+
+	at net.fabricmc.fabric.impl.registry.sync.RegistrySyncManager.checkRemoteRemap(RegistrySyncManager.java:388) ~[fabric-registry-sync-v0-2.3.2+4df89eb277-3830ec6d52dbef83.jar:?]
+	at net.fabricmc.fabric.impl.registry.sync.RegistrySyncManager.apply(RegistrySyncManager.java:284) ~[fabric-registry-sync-v0-2.3.2+4df89eb277-3830ec6d52dbef83.jar:?]
+	at net.fabricmc.fabric.impl.registry.sync.RegistrySyncManager.lambda$receivePacket$0(RegistrySyncManager.java:118) ~[fabric-registry-sync-v0-2.3.2+4df89eb277-3830ec6d52dbef83.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:802) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:250) ~[fabric-loader-0.15.0-1.20.1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.0.jar:?]
+[14:30:40] [Netty Play IO Thread #0/INFO]: Got mod list from server:  [psychedelicraft] (1)
+[14:30:40] [Render thread/WARN]: Failed to get file path of mod moonlight: /
+[14:30:40] [Render thread/WARN]: Failed to get file path of mod dummmmmmy: /
+[14:30:40] [Render thread/INFO]: [voicechat] Clearing audio channels
+[14:30:40] [Render thread/INFO]: Clearing unused audio channels
+[14:30:40] [Render thread/INFO]: Stopping worker threads
+[14:30:40] [Render thread/INFO]: Readig Config...
+[14:30:50] [Render thread/ERROR]: ##################################
+[14:30:50] [Render thread/ERROR]: Failed to notify event listener!
+[14:30:50] [Render thread/ERROR]: Event Type: com.hypherionmc.craterlib.api.event.client.ScreenEvent$Opening
+[14:30:50] [Render thread/ERROR]: Listener Parent Class Name: me.hypherionmc.simplerpc.SimpleRPCClient
+[14:30:50] [Render thread/ERROR]: Listener Method Name In Parent Class: screenOpenEvent
+[14:30:50] [Render thread/ERROR]: ##################################
+[14:30:50] [Render thread/INFO]: [STDERR]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.lambda$registerListenerMethods$1(CraterEventBus.java:45)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus$ListenerContainer.notifyListener(CraterEventBus.java:128)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.postEvent(CraterEventBus.java:26)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.handler$zmb000$craterlib$injectScreenOpeningEvent(class_310.java:7530)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1507(class_310.java:1088)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_419.method_19814(class_419.java:41)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4185.method_25306(class_4185.java:94)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4264.method_25348(class_4264.java:56)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_339.method_25402(class_339.java:189)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_4069.method_25402(class_4069.java:38)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_1611(class_312.java:98)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_437.method_25412(class_437.java:409)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_1601(class_312.java:98)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_22686(class_312.java:169)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.execute(class_1255.java:102)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_312.method_22684(class_312.java:169)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.system.JNI.invokeV(Native Method)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:237)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1523(class_310.java:1244)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.method_1514(class_310.java:802)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:250)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[14:30:50] [Render thread/INFO]: [STDERR]: Caused by: java.lang.reflect.InvocationTargetException
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at jdk.internal.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at com.hypherionmc.craterlib.core.event.CraterEventBus.lambda$registerListenerMethods$1(CraterEventBus.java:43)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	... 25 more
+[14:30:50] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NullPointerException: Cannot invoke "java.util.List.forEach(java.util.function.Consumer)" because "buttons" is null
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.util.APIUtils.parseButtons(APIUtils.java:53)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.configuration.presence.ServerListSection.buildPresence(ServerListSection.java:64)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.updateRPC(RichPresenceEvents.java:99)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.updateRPC(RichPresenceEvents.java:64)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpclib.discord.RichPresenceEvents.serverListRPC(RichPresenceEvents.java:49)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	at me.hypherionmc.simplerpc.SimpleRPCClient.screenOpenEvent(SimpleRPCClient.java:56)
+[14:30:50] [Render thread/INFO]: [STDERR]: 	... 29 more
+[14:30:51] [Render thread/INFO]: Stopping!
+[14:30:51] [Render thread/INFO]: Readig Config...
